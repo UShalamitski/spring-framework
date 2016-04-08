@@ -1,9 +1,20 @@
 package org.gradle;
 
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
 public class App {
 
     private Client client;
     private ConsoleEventHandler logEvent;
+
+    public App() {
+    }
+
+    public App(Client client, ConsoleEventHandler logEvent) {
+        this.client = client;
+        this.logEvent = logEvent;
+    }
 
     private void logEvent(String msg) {
         String message = msg.replace(client.getId(), client.getFullName());
@@ -11,11 +22,12 @@ public class App {
     }
 
     public static void main(String[] args) {
-        App app = new App();
-        app.client = new Client("1", "Aureliano");
-        app.logEvent = new ConsoleEventHandler();
+        
+        ApplicationContext context = new ClassPathXmlApplicationContext("spring.xml");
+        App app = (App) context.getBean("app");
 
         app.logEvent("Some event for user 1");
+        app.logEvent("Some event for user 2");
     }
 
 }
