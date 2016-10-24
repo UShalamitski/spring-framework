@@ -69,7 +69,7 @@ set CMD_LINE_ARGS=%$
 :execute
 @rem Setup the command line
 
-set CLASSPATH=%APP_HOME%\lib\spring-framework-1.0.jar;%APP_HOME%\lib\log4j-1.2.17.jar;%APP_HOME%\lib\commons-collections-3.2.jar;%APP_HOME%\lib\spring-context-4.1.6.RELEASE.jar;%APP_HOME%\lib\spring-context-support-4.1.6.RELEASE.jar;%APP_HOME%\lib\spring-tx-4.1.6.RELEASE.jar;%APP_HOME%\lib\spring-jdbc-4.1.6.RELEASE.jar;%APP_HOME%\lib\spring-aop-4.3.3.RELEASE.jar;%APP_HOME%\lib\aspectjweaver-1.8.9.jar;%APP_HOME%\lib\aspectjrt-1.8.9.jar;%APP_HOME%\lib\spring-expression-4.1.6.RELEASE.jar;%APP_HOME%\lib\commons-logging-1.2.jar;%APP_HOME%\lib\spring-beans-4.3.3.RELEASE.jar;%APP_HOME%\lib\spring-core-4.3.3.RELEASE.jar
+set CLASSPATH=%APP_HOME%\lib\spring-framework-1.0.jar;%APP_HOME%\lib\log4j-1.2.17.jar;%APP_HOME%\lib\commons-collections-3.2.jar;%APP_HOME%\lib\spring-context-4.1.6.RELEASE.jar;%APP_HOME%\lib\spring-context-support-4.1.6.RELEASE.jar;%APP_HOME%\lib\spring-tx-4.1.6.RELEASE.jar;%APP_HOME%\lib\spring-jdbc-4.1.6.RELEASE.jar;%APP_HOME%\lib\spring-aop-4.3.3.RELEASE.jar;%APP_HOME%\lib\aspectjweaver-1.8.9.jar;%APP_HOME%\lib\aspectjrt-1.8.9.jar;%APP_HOME%\lib\postgresql-9.4.1211.jre7.jar;%APP_HOME%\lib\spring-expression-4.1.6.RELEASE.jar;%APP_HOME%\lib\commons-logging-1.2.jar;%APP_HOME%\lib\spring-beans-4.3.3.RELEASE.jar;%APP_HOME%\lib\spring-core-4.3.3.RELEASE.jar
 
 @rem Execute spring-framework
 "%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %SPRING_FRAMEWORK_OPTS%  -classpath "%CLASSPATH%" com.example.spring.example7.MainApp %CMD_LINE_ARGS%
