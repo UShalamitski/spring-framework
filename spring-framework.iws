@@ -2,44 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3692ee44-e591-45c8-b588-cad2eb7f13c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/jdbc/Student.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example8_EventHandling/CStartEventHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example8_EventHandling/CStopEventHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example8_EventHandling/HelloWorld.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example8_EventHandling/MainApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example9_CustomEvents/CustomEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example9_CustomEvents/CustomEventHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example9_CustomEvents/CustomEventPublisher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example9_CustomEvents/MainApp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/example8/context.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/example9/context.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshotUsage.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14/taskArtifacts/treeSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/distributions/spring-framework-1.0.tar" afterPath="$PROJECT_DIR$/build/distributions/spring-framework-1.0.tar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/distributions/spring-framework-1.0.zip" afterPath="$PROJECT_DIR$/build/distributions/spring-framework-1.0.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/spring-framework-1.0.jar" afterPath="$PROJECT_DIR$/build/libs/spring-framework-1.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/spring-framework_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/spring-framework_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/spring-framework_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/spring-framework_test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/scripts/spring-framework" afterPath="$PROJECT_DIR$/build/scripts/spring-framework" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/scripts/spring-framework.bat" afterPath="$PROJECT_DIR$/build/scripts/spring-framework.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-framework.ipr" afterPath="$PROJECT_DIR$/spring-framework.ipr" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example6/JavaCollection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example6/MainApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example7/MainApp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example7/SpellChecker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/example/spring/example7/TextEditor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/example6/context.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/example7/contextAutowireByConstructor.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/example7/contextAutowireByName.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/example7/contextAutowireByType.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example7/MainApp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example7/SpellChecker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example7/TextEditor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/example7/contextAutowireByConstructor.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/example7/contextAutowireByName.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/example7/contextAutowireByType.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-framework.iws" afterPath="$PROJECT_DIR$/spring-framework.iws" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example8_EventHandling/CStartEventHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/event/EventHandling/CStartEventHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example8_EventHandling/CStopEventHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/event/EventHandling/CStopEventHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example8_EventHandling/HelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/event/EventHandling/HelloWorld.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example8_EventHandling/MainApp.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/event/EventHandling/MainApp.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example9_CustomEvents/CustomEvent.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/event/CustomEvents/CustomEvent.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example9_CustomEvents/CustomEventHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/event/CustomEvents/CustomEventHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example9_CustomEvents/CustomEventPublisher.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/event/CustomEvents/CustomEventPublisher.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example9_CustomEvents/MainApp.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/event/CustomEvents/MainApp.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/example8/context.xml" afterPath="$PROJECT_DIR$/src/main/resources/event/EventHandling/context.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/example9/context.xml" afterPath="$PROJECT_DIR$/src/main/resources/event/CustomEvents/context.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example5/MainApp.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/example5/MainApp.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example6/JavaCollection.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/container/collection/JavaCollection.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/example6/MainApp.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/container/collection/MainApp.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/example6/context.xml" afterPath="$PROJECT_DIR$/src/main/resources/container/collection/context.xml" />
     </list>
     <ignored path="spring-framework.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -199,14 +181,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/example6/MainApp.java">
+      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/container/collection/MainApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/container/autowiring/MainApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/example5/MainApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="context.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/example5/context.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contextAutowireByConstructor.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/container/autowiring/contextAutowireByConstructor.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -633,17 +657,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example8/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example8/CStartEventHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example8/CStopEventListener.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example8/CStopEventHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/example8/context.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example8/MainApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example8_EventHandling/CStartEventHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example9_CustomEvents/ApplicationEventPublisher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example9_CustomEvents/CustomEventPublisher .java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example9_CustomEvents/CustomEbentHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example9_CustomEvents/MainClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example9_CustomEvents/MainApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example9_CustomEvents/CustomEvent.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example9_CustomEvents/CustomEventPublisher.java" />
@@ -684,6 +697,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/spring/scheduler/MainApp.java" />
         <option value="$PROJECT_DIR$/src/main/resources/scheduler/context.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/spring/scheduler/TaskAnnotated.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/container/example6/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/container/collention/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/container/collention/example7/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example7/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/container/collection/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/container/autowiring/TextEditor.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/container/autowiring/contextAutowireByName.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/container/autowiring/contextAutowireByType.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/container/autowiring/contextAutowireByConstructor.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/container/autowiring/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/spring/example5/MainApp.java" />
       </list>
     </option>
   </component>
@@ -820,11 +844,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\projects\spring-framework\src\main\resources\container\autowiring" />
+      <recent name="D:\work\projects\spring-framework\src\main\java\com\example\spring\container\autowiring" />
       <recent name="D:\work\projects\spring-framework\src\main\resources\scheduler" />
       <recent name="D:\work\projects\spring-framework\src\main\resources\transaction\declarative" />
       <recent name="D:\work\projects\spring-framework\src\main\resources\transaction\programmatic" />
-      <recent name="D:\work\projects\spring-framework\src\main\resources\jdbc" />
-      <recent name="D:\work\projects\spring-framework\src\main\resources\aop\AnnotationBasedAOP" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.spring.scheduler" />
@@ -834,51 +858,12 @@
       <recent name="com.example.spring.example5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\projects\spring-framework\src\main\resources\container\collection" />
       <recent name="D:\work\projects\spring-framework\src\main\resources\transaction\p\programmatic" />
       <recent name="D:\work\projects\spring-framework\src\main\resources\example1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainApp (2)">
-    <configuration default="false" name="MainApp (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.spring.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.spring.jdbc.MainApp" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spring-framework_main" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.spring.transaction.programmatic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.spring.transaction.programmatic.MainApp" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spring-framework_main" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MainApp (5)">
     <configuration default="false" name="MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
@@ -899,14 +884,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MainApp (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.example.spring.scheduler.*" />
+          <option name="PATTERN" value="com.example.spring.container.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.example.spring.scheduler.MainApp" />
+      <option name="MAIN_CLASS_NAME" value="com.example.spring.container.collection.MainApp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -927,6 +912,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.example.spring.event.EventHandling.MainApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="spring-framework_main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MainApp (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.spring.container.collention.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.spring.container.collention.MainApp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="spring-framework_main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MainApp (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.spring.container.autowiring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.example.spring.container.autowiring.MainApp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1179,19 +1204,18 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MainApp (4)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MainApp" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MainApp (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MainApp" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MainApp (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MainApp (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MainApp (5)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MainApp (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MainApp (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MainApp (4)" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MainApp (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MainApp" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MainApp (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MainApp" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MainApp (4)" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.MainApp (5)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MainApp (4)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MainApp (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MainApp (2)" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1228,7 +1252,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1242,7 +1266,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24360341" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24360341" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11140725" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1255,7 +1280,6 @@
       <window_info id="Palette " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1281,70 +1305,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/event/EventHandling/CStopEventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/event/EventHandling/CStartEventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/event/EventHandling/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.6.RELEASE/90d95c820dabd0187ff5be4a854b912741e8fd36/spring-context-4.1.6.RELEASE-sources.jar!/org/springframework/context/ApplicationEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="27" column="38" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/event/CustomEvents/CustomEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/event/CustomEvents/CustomEventPublisher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/event/CustomEvents/CustomEventHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/aop.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/event/CustomEvents/context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/aop/XMLSchemaBasedAOP/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1639,14 +1599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/example7/MainApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/scheduler/context.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1655,21 +1607,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/example5/MainApp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/example7/TextEditor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/example6/MainApp.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/example7/MainApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="272">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/container/collection/JavaCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/container/autowiring/SpellChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/container/autowiring/TextEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/container/autowiring/contextAutowireByName.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="75" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/container/autowiring/contextAutowireByType.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/container/collection/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/container/autowiring/contextAutowireByConstructor.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/container/autowiring/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/spring/example5/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/example5/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,7 +1,5 @@
 package com.example.spring.example5;
 
-import com.example.spring.example4.HelloIndia;
-import com.example.spring.example4.HelloWorld;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

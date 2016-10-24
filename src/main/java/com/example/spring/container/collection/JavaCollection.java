@@ -1,4 +1,4 @@
-package com.example.spring.example6;
+package com.example.spring.container.collection;
 
 import java.util.List;
 import java.util.Map;

@@ -6,7 +6,7 @@
     http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
 
     <!-- Definition for javaCollection -->
-    <bean id="javaCollection" class="com.example.spring.example6.JavaCollection">
+    <bean id="javaCollection" class="com.example.spring.container.collection.JavaCollection">
 
         <!-- results in a setAddressList(java.util.List) call -->
         <property name="addressList">

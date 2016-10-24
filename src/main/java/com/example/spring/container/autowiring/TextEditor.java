@@ -1,4 +1,4 @@
-package com.example.spring.example7;
+package com.example.spring.container.autowiring;
 
 /**
  * Created by Uladzislau_Shalamits on 10/7/2016.

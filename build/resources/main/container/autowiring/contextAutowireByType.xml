@@ -6,11 +6,11 @@
     http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
 
     <!-- Definition for textEditor bean -->
-    <bean id="textEditor" class="com.example.spring.example7.TextEditor" autowire="byName">
+    <bean id="textEditor" class="com.example.spring..container.autowiring.TextEditor" autowire="byName">
         <property name="name" value="Generic Text Editor"/>
     </bean>
 
     <!-- Definition for spellChecker bean -->
-    <bean id="someName" class="com.example.spring.example7.SpellChecker"/>
+    <bean id="someName" class="com.example.spring..container.autowiring.SpellChecker"/>
 
 </beans>
